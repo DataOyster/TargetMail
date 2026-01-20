@@ -1,0 +1,81 @@
+============================================================
+EMAIL GENERATION RESULTS - POWERED BY GROQ
+Generated: 2025-12-08 21:12:28
+Total Profiles: 5
+============================================================
+
+============================================================
+EMAIL #1
+============================================================
+
+Name: Unknown
+Company: N/A
+Job Title: Project Manager
+Industry: Healthcare & Biotechnology; Sports, Arts & Entertainment
+Focus Area: N/A
+Status: ❌ ERROR
+
+ERROR DETAILS:
+------------------------------------------------------------
+API Error (400): The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.
+
+============================================================
+EMAIL #2
+============================================================
+
+Name: Unknown
+Company: N/A
+Job Title: Project Manager
+Industry: Hospitality, Tourism & Food; Non-profit & Sustainability; Education & Research
+Focus Area: N/A
+Status: ❌ ERROR
+
+ERROR DETAILS:
+------------------------------------------------------------
+API Error (400): The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.
+
+============================================================
+EMAIL #3
+============================================================
+
+Name: Unknown
+Company: N/A
+Job Title: Consultant
+Industry: Media, Design & Communication
+Focus Area: N/A
+Status: ❌ ERROR
+
+ERROR DETAILS:
+------------------------------------------------------------
+API Error (400): The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.
+
+============================================================
+EMAIL #4
+============================================================
+
+Name: Unknown
+Company: N/A
+Job Title: CEO / Founder
+Industry: Government & Public Sector; Science & Engineering
+Focus Area: N/A
+Status: ❌ ERROR
+
+ERROR DETAILS:
+------------------------------------------------------------
+API Error (400): The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.
+
+============================================================
+EMAIL #5
+============================================================
+
+Name: Unknown
+Company: N/A
+Job Title: Project Manager
+Industry: Sports, Arts & Entertainment; Tech & Data
+Focus Area: N/A
+Status: ❌ ERROR
+
+ERROR DETAILS:
+------------------------------------------------------------
+API Error (400): The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.
+
