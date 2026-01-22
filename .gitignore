@@ -1,39 +1,18 @@
-# -------------------------
-# Python general
-# -------------------------
+# Python bytecode
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.db
-
-# Virtual environments
+# Environments
 env/
 venv/
-.venv/
-
-# VS Code
+# IDE
 .vscode/
-*.code-workspace
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Logs
+# Logs & Data
 *.log
-
-# OS-generated files
-.DS_Store
-Thumbs.db
-
-# -------------------------
-# Project-specific
-# -------------------------
-.env                 # API keys and secrets
-output/              # Generated email files
-targetmail_token.txt
+output/
 *.csv
 *.json
 
-# Optional: exclude data if sensitive
-# data/
+# Secrets
+.env
+password/
+targetmail_token.txt
