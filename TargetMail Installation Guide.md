@@ -72,7 +72,7 @@ Install packages:
 pip install pandas python-dotenv groq resend tenacity
 ```
 
-### Step 4: Get Groq API Key
+### Step 4: Get Groq API Keypy
 
 1. Go to console.groq.com
 2. Sign up or log in with your account
